@@ -2,6 +2,8 @@
 
 Data sources :
 
+https://cran.r-project.org/web/packages/graphicalExtremes/index.html
+
 https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/Nile.html
 
 https://vincentarelbundock.github.io/Rdatasets/doc/openintro/flow_rates.html
